@@ -1,0 +1,8 @@
+pattern,responses
+hi|hello|hey,"Hello!,Hi there!,Hey!"
+how are you\??,"I am doing well, how about you?,I am great, thank you!"
+your name\??,"My name is JSChatbot.,You can call me JSBot."
+help,"I can help you with your queries.,What do you need help with?"
+bye|goodbye,"Goodbye!,See you later!,Have a great day!"
+😊|😃|😄,"I see you used a happy emoji!,Nice smiley!"
+😢|😭,"Oh no, why the sad face?,I'm here if you need to talk."
